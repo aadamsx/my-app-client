@@ -1,0 +1,8 @@
+{
+  "/api": {
+    "target": "http://analyticshub_server_1:5001",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
